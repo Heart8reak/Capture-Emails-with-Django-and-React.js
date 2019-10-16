@@ -9,6 +9,8 @@ The goal of this project is to have a reusable email capture for to be as simple
 <div class='cfe-email-cap'></div>
 ```
 
+## Carlos-Baez
+
 
 ### Software: 
 
@@ -16,6 +18,7 @@ The goal of this project is to have a reusable email capture for to be as simple
 - Django Rest Framework
 - Python 3.6+
 - React.js 16.8+
+
 
 
 
